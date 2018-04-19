@@ -1,0 +1,3 @@
+[flake8]
+exclude = migrations,__init__.py, *iot_policies/*
+max-line-length=99
